@@ -1,2 +1,14 @@
-# Landing-page
-This project involves designing and building a responsive landing page using Sass, HTML, and CSS. The page is intended to showcase a sleek, professional aesthetic with smooth animations, a user-friendly interface, and adaptability across devices. 
+# 🌐 Responsive Landing Page
+
+A clean and mobile-friendly landing page for a fictional product/brand using **HTML**, **CSS**, and **Bootstrap**.
+
+## 🎯 Features
+- Fully responsive layout
+- Smooth scroll & section navigation
+- Mobile-first design using Bootstrap grid
+
+## 🔧 Tech Stack
+- HTML5
+- CSS3
+- Bootstrap 5
+
