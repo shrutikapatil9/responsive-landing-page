@@ -14,7 +14,7 @@ A clean and mobile-friendly landing page for a fictional product/brand using **H
 
   
   ## 🔗 Live Demo  
-[Check it out here!](## 🔗https://landingpage090.netlify.app/)
+[Check it out here!](https://landingpage090.netlify.app/)
 
 
 
